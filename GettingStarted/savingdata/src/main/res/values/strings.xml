@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saving Data</string>
+    <string name="saved_high_score">High Score</string>
+    <integer name="saved_high_score_default">0</integer>
+</resources>
